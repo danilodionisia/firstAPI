@@ -1,0 +1,14 @@
+E:\firstAPI\PorAgil.API\bin\Debug\netcoreapp2.2\PorAgil.API.deps.json
+E:\firstAPI\PorAgil.API\bin\Debug\netcoreapp2.2\PorAgil.API.runtimeconfig.json
+E:\firstAPI\PorAgil.API\bin\Debug\netcoreapp2.2\PorAgil.API.runtimeconfig.dev.json
+E:\firstAPI\PorAgil.API\bin\Debug\netcoreapp2.2\PorAgil.API.dll
+E:\firstAPI\PorAgil.API\bin\Debug\netcoreapp2.2\PorAgil.API.pdb
+E:\firstAPI\PorAgil.API\obj\Debug\netcoreapp2.2\PorAgil.API.csprojAssemblyReference.cache
+E:\firstAPI\PorAgil.API\obj\Debug\netcoreapp2.2\PorAgil.API.csproj.CoreCompileInputs.cache
+E:\firstAPI\PorAgil.API\obj\Debug\netcoreapp2.2\PorAgil.API.RazorAssemblyInfo.cache
+E:\firstAPI\PorAgil.API\obj\Debug\netcoreapp2.2\PorAgil.API.RazorAssemblyInfo.cs
+E:\firstAPI\PorAgil.API\obj\Debug\netcoreapp2.2\PorAgil.API.AssemblyInfoInputs.cache
+E:\firstAPI\PorAgil.API\obj\Debug\netcoreapp2.2\PorAgil.API.AssemblyInfo.cs
+E:\firstAPI\PorAgil.API\obj\Debug\netcoreapp2.2\PorAgil.API.RazorTargetAssemblyInfo.cache
+E:\firstAPI\PorAgil.API\obj\Debug\netcoreapp2.2\PorAgil.API.dll
+E:\firstAPI\PorAgil.API\obj\Debug\netcoreapp2.2\PorAgil.API.pdb
