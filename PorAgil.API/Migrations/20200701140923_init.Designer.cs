@@ -8,7 +8,7 @@ using PorAgil.API.Data;
 namespace PorAgil.API.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20200701010726_init")]
+    [Migration("20200701140923_init")]
     partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -23,6 +23,8 @@ namespace PorAgil.API.Migrations
                         .ValueGeneratedOnAdd();
 
                     b.Property<string>("DataEvento");
+
+                    b.Property<string>("ImagemUrl");
 
                     b.Property<string>("Local");
 
